@@ -5,7 +5,7 @@ Usage
 
 import testgcp as tg
 
-timenow()
+tg.timenow()
 '''
 
 ##--------------------------------------------------##
